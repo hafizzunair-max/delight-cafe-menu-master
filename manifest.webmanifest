@@ -1,0 +1,10 @@
+{
+  "name": "Delight Caf\u00e9 Menu Master",
+  "short_name": "Menu Master",
+  "description": "Learn menu items, prices and ingredients offline.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#061c1b",
+  "theme_color": "#062f2d",
+  "icons": []
+}
